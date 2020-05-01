@@ -1,0 +1,57 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+6jyt_refine_12      NSAVGACVLCNSQTSLRCGACIRRPFLCCKCCYDHVISTSHKLVLSVNPYVCNAPGCDV-	59
+2gk6                --PLGSRYEDAYQ-----YQNIFGPLVKLEADYDKK------------------------	29
+                       :*:      *        *  *::  :. **:                        *
+
+6jyt_refine_12      ------TDVTQLYLGGMSYYCKSHKPPISFPLCANGQVFGLYKNTCVGSDNVTDFNAIAT	113
+2gk6                ------------------------------------------------------------	29
+                    ******
+
+6jyt_refine_12      CDWTNAGDYILANTCTERLKLFAAETLKATEETFKLSYGIATVREVLSDRELHLSWEVGK	173
+2gk6                ------------------------------------------LKESQTQDNITVRWDLGL	47
+                                                              ::*  :: :: : *::*
+
+6jyt_refine_12      PRPPLNRNYV--FTGYRVTKNSKVQIGE-----YTFEKGD-----------------YGD	209
+2gk6                -----NKKRIAYFTLPKTDSDMRLMQGDEICLRY---KGDLAPLWKGIGHVIKVPDNYGD	99
+                         *:: :  **  :. .: ::  *:     *   ***                 ***
+
+6jyt_refine_12      --AVVYRGTT------TYKLNVGDYFVLTSHTVMPLSAPTLVPQE-------------HY	248
+2gk6                EIAIELRSSVGAPVEVTHNFQVDFVWKSTSFDRMQSALKTFAVDETSVSGYIYHKLLGHE	159
+                      *:  *.:.      *::::*.  :  **.  *  :  *:. :*             *
+
+6jyt_refine_12      V-----------RIT--GLYPTLNISDEFSSNVANYQKVGMQKYSTLQGPPGTGKSHFAI	295
+2gk6                VEDVIIKCQLPKRFTAQGL-PDLNHSQVYA-----VKTVLQRPLSLIQGPPGTGKT--VT	211
+                    *           *:*  ** * ** *: ::      :.*  :  * :********:  .
+
+6jyt_refine_12      GLALYYPSAR-----IVYTACSHAAVDALCEK----ALKYLPIDKCSR------------	334
+2gk6                SATIVYHLARQGNGPVLVCAPSNIAVDQLTEKIHQTGLKVVRLCAKSREAIDSPVSFLAL	271
+                    . :: *  **     ::  * *: *** * **    .** : :   **
+
+6jyt_refine_12      --------IIPTLEQYVFCTVNALPETTADIVVFDEISMAT-----NYDLSVVNARLRAK	381
+2gk6                HNQIRNMDSMPELQK-----LQQLKDETGELSSADEKRYRALKRTAEREL-LMNADVICC	325
+                             :* *::     :: * : *.::   **    :     : :* ::** : .
+
+6jyt_refine_12      HYVYIGDPAQLP--APRTLLTKGT--LEPEYFNSV---CRLMKTIGPDMFLGTCRRCPAE	434
+2gk6                TCVGAGDPRLAKMQFRSILIDESTQATEPECMVPVVLGAKQLILVGDHCQLGPVVMCKKA	385
+                      *  ***          *: :.*   *** :  *   .: :  :* .  **    *
+
+6jyt_refine_12      IVDTVSALVYDN-------------KLKAHKDKSAQCFKMFYKGVITHDVSSA-------	474
+2gk6                AKAGLSQSLFERLVVLGIRPIRLQVQYRMHPALSAFPSNIFYEGSLQNGVTAADRVKKGF	445
+                        :*  :::.             : : *   **   ::**:* : :.*::*
+
+6jyt_refine_12      -----------------------------INRPQIGVVREFLTR------NPAWRKAVFI	499
+2gk6                DFQWPQPDKPMFFYVTQGQEEIASSGTSYLNRTEAANVEKITTKLLKAGAKPD--QIGII	503
+                                                 :** : . *.:: *:      :*   :  :*
+
+6jyt_refine_12      SPYNSQNAVASKIL----GLPTQ--------TVDSSQGSEYDYVIFTQTTETAHSC----	543
+2gk6                TPYEGQRSYLVQYMQFSGSLHTKLYQEVEIASVDAFQGREKDFIILSCVRANEHQGIGFL	563
+                    :**:.*.:   : :    .* *:        :**: ** * *::*:: .  . *.
+
+6jyt_refine_12      -NVNRFNVAITRAKIGILCI-----MSDRDLYDKLQFTSLEI------P-----------	580
+2gk6                NDPRRLNVALTRARYGVIIVGNPKALSKQPLWNHLLNYYKEQKVLVEGPLNNLRESLMQF	623
+                     : .*:***:***: *:: :     :*.: *:::*     *       *
+
+6jyt_refine_12      -	580
+2gk6                S	624
