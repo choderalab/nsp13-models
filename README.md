@@ -8,4 +8,3 @@ https://docs.google.com/document/d/1NiTmuvMw6toLp1cdbP9IbtwIsY63i3Xw9VuVJzlNr-c/
 
 Coronavirus Structural Biology Task Force Link
 https://github.com/thorn-lab/coronavirus_structural_task_force/tree/master/pdb/helicase
-
