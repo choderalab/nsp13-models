@@ -1,15 +1,3 @@
-cmd.show("cartoon"   ,"all")
-cmd.disable('6jyt')
-cmd.disable('5www')
-cmd.enable('5www',1)
-cmd.disable('5www')
-cmd.enable('5www',1)
-cmd.disable('5www')
-cmd.delete("5www")
-fetch 5wwp, async=0
-cmd.enable('6jyt',1)
-@/Users/alexpayne/PyMol/select_chainA.pml
-cmd.disable('sele')
 select 6jyt_active_site, 6jyt_refine_12 and resi 288+289+290+374+375+404+442+443+567 and chain A
 select 6jyt_active_site_old, 6jyt and resi 288+289+290+374+375+404+442+443+567 and chain A
 select 5wwp_active_site, 5wwp and resi 288+289+290+374+375+404+442+443+567  and chain A
