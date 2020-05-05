@@ -14,7 +14,7 @@ This includes these directories:
 ## **PyMol Visualization Tools**
 **pymol_sessions**: pymol sessions which help to visualize what we are trying to accomplish
 **pymol_scripts**: simple pymol scripts (.py and .pml) useful for this project
-**movies_and_images**: movies and images made either from pymol sessions or illustrated
+**movies_and_images**: movies and images made either from pymol sessions or illustrated  
 
 # **Links**
 Chodera lab structures sheet
