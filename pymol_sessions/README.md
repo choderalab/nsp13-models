@@ -1,7 +1,7 @@
-# **Welcome to the nsp13-models repo!**
+# **Welcome to the PyMol Sessions directory!**
 
 ## **PyMol sessions**
-1. 
+
 
 ### Contributors
 Alex Payne, Chodera Lab
