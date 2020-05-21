@@ -1,0 +1,84 @@
+CLUSTAL X (1.81) multiple sequence alignment
+
+
+5wwp_chain_A                        -PAVGSCVVCHSQTSLRCGTCIRRPFLCCKCCYDHVIATPHKMVLSVSPY
+6jyt_refine_12_chain_A              NSAVGACVLCNSQTSLRCGACIRRPFLCCKCCYDHVISTSHKLVLSVNPY
+2gk6_chain_A                        --------------------------------------------------
+model_01_chain_A                    --------------------------------------------------
+
+5wwp_chain_A                        VCNAPGCGVSDVTKLYLGG-MSYFCVDHRPVCSFPLCANGLVFGLYKNMC
+6jyt_refine_12_chain_A              VCNAPGCDVTDVTQLYLGGX-SYYCKSHKPPISFPLCANGQVFGLYKNTC
+2gk6_chain_A                        --------------------------------------------------
+model_01_chain_A                    --------------------------------------------------
+
+5wwp_chain_A                        TGSPSIVEFNRLATCDWTESGDYTLANTTT-----EPLKLFAAETLRATE
+6jyt_refine_12_chain_A              VGSDNVTDFNAIATCDWTNAGDYILANTCT-----ERLKLFAAETLKATE
+2gk6_chain_A                        --------------------------GSRYEDAYQYQNIFGPLVKLEADY
+model_01_chain_A                    --------------------------------------------------
+
+5wwp_chain_A                        EASK----------------------------------------------
+6jyt_refine_12_chain_A              ETFKLSYGIATVREVLSD--------RELHLSWEVGKPRPPLNRNYVFTG
+2gk6_chain_A                        DKKLKESQTQDNITVRWDLGLNKKRIAYFTLP----------LMQGDEIC
+model_01_chain_A                    --------------------------------------------------
+
+5wwp_chain_A                        --------------------------------------------------
+6jyt_refine_12_chain_A              YRV----TKNSKVQIGEYTFEKGDYGDAVVYRGTTTYK------LNVGDY
+2gk6_chain_A                        LRYKGDLAPLWKGIGHVIKVPDNYG---DEIAIELRSSVGAPVEVTHNFQ
+model_01_chain_A                    --------------------------------------------------
+
+5wwp_chain_A                        ------S------VA-TLTAPT---------IVNQ-----ERYVKITGLY
+6jyt_refine_12_chain_A              FVLTSHT------VX-PLSAPT---------LVPQ-----EHYVRITGLY
+2gk6_chain_A                        VDFVWKSTSFDRMQS-ALKTFAVDETSVSGYIYHKLLGHEVEDVIIK-CQ
+model_01_chain_A                    --------------------------------------------------
+
+5wwp_chain_A                        PTITVP----EEFAS-HVANFQKSGYS-KYVTVQGPPGTGKSHFAIGLAI
+6jyt_refine_12_chain_A              PTLNIS----DEFSS-NVANYQKVGX-QKYSTLQGPPGTGKSHFAIGLAL
+2gk6_chain_A                        LPKRFTAQGLPDLNHSQVYAVKTVLQR-PLSLIQGPPGTGKTVTSATIVY
+model_01_chain_A                    -----------------------VGMQ-KYSTLQGPPGTGKSHFAIGLAL
+
+5wwp_chain_A                        YYPTA---RVVYTACSHAAVDALCEKAFKYLNIAKCSRIIPAKARVEC--
+6jyt_refine_12_chain_A              YYPSA---RIVYTACSHAAVDALCEKALKYLPIDKCSRIIP---------
+2gk6_chain_A                        HLARQGNGPVLVCAPSNIAVDQLTEKIHQTGL--KVVRLCAKSREAIDSP
+model_01_chain_A                    Y---YPSARIVYTACSHAAVDALCEKAL------KYLPIDKCSRI-IPAR
+
+5wwp_chain_A                        YDRFKVN----------------------------------------ETN
+6jyt_refine_12_chain_A              ------------------------------------------------TL
+2gk6_chain_A                        VSFLALHNQIRNMDSMPELQKLQQLKDLSSADEKRYRALKRTAERELLMN
+model_01_chain_A                    ---ARVE--------------------------------CFDKFKVNSTL
+
+5wwp_chain_A                        SQYLFSTINALP-----ETSADILVVDEVSMCT-NYDLSIINARIKAKHI
+6jyt_refine_12_chain_A              EQYVFCTVNALP-----ETTADIVVFDEISX-ATNYDLSVVNARLRAKHY
+2gk6_chain_A                        ADVICCTCVGAGDPRLAKMQFRSILIDESTQAT-EP-ECMVPVVLGAKQL
+model_01_chain_A                    EQYVFCTVNALP-----ETTADIVVFDEISMAT-NYDLSVVNARLRAKHY
+
+5wwp_chain_A                        VYVGDPAQLPAPRTLLTRGTLEPE-NFNSVTRLMCNL-GPDIFLSM-CYR
+6jyt_refine_12_chain_A              VYIGDPAQLPAPRTLLTKGTLEPE-YFNSVCRLX-KTIGPDX-FLGTCRR
+2gk6_chain_A                        ILVGDHCQLGPVVM--CKKAAKAGLSQSLFERLVVLG-IRPIRLQV-QYR
+model_01_chain_A                    VYIGDPAQLPAPRTLLTKGTLEPEYFNSVCRLMKT-I-GPDMFLGT-CRR
+
+5wwp_chain_A                        CPKEIVSTVSALVYNNKLLAKKEL---------------SGQCFKILYKG
+6jyt_refine_12_chain_A              CPAEIVDTVSALVYDNKLKAHKDK---------------SAQCFKX-FYK
+2gk6_chain_A                        MHPALSAFPSNIFYEGSLQNGVTAADRVKKGFDFQWPQPDKPMFFYVTQG
+model_01_chain_A                    CPAEIVDTVSALVYDNKLKAHKDK---------------SAQCFKMFYKG
+
+5wwp_chain_A                        N-VTHD--ASSAINRPQLTFVKNFITANPAWSK----AVFISPYNSQNAV
+6jyt_refine_12_chain_A              GVITHD--VSSAINRPQIGVVREFLTRNPAWRK----AVFISPYNSQNAV
+2gk6_chain_A                        Q-EEIASSGTSYLNRTEAANVEKITTKLLKAGAKPDQIGIITPYEGQRSY
+model_01_chain_A                    V-ITHD--VSSAINRPQIGVVREFL----TRNPAWRKAVFISPYNSQNAV
+
+5wwp_chain_A                        SRSMLG------------LTTQTVDSSQGSEYQYVIFCQTADTAHANNIN
+6jyt_refine_12_chain_A              ASKILG------------LPTQTVDSSQGSEYDYVIFTQTTETAHSCNVN
+2gk6_chain_A                        LVQYMQFSGSLHTKLYQEVEIASVDAFQGREKDFIILSCVR-IGFLNDPR
+model_01_chain_A                    ASK------------ILGLPTQTVDSSQGSEYDYVIFTQTTETAHSCNVN
+
+5wwp_chain_A                        RFNVAITRAQKGILCVMT----S-Q---ALFESL-----EFTELSFTNYK
+6jyt_refine_12_chain_A              RFNVAITRAKIGILCIX-S----DR---DLYDKL-----QFTSLEIP---
+2gk6_chain_A                        RLNVALTRARYGVIIVG-NPKAL-SKQPLWNHLLNYYKEQKVLVEGPLNN
+model_01_chain_A                    RFNVAITRAKVGILCIMSDRDLY-DKLQFTSLEIPR--------------
+
+5wwp_chain_A                        LQ----
+6jyt_refine_12_chain_A              ------
+2gk6_chain_A                        LRESLM
+model_01_chain_A                    ------
+
+
