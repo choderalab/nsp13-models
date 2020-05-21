@@ -1,0 +1,97 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+sp|P16736|HELI_HCMVA      MSMTASSSTPRPTPKYDDALILNLSSAAKIERIVDKVKSLSRERFAPEDFSFQWFRSISR	60
+nsp13|YP_009725308.1      ------------------------------------------------------------	0
+pdb|2gk6|A                ------------------------------------------------------------	0
+                                                                                      
+
+sp|P16736|HELI_HCMVA      VERTTDNNPSAATTAAATTTVHSSASSSAAAAASSEAGGTRVPCVDRWPFFPFRALLVTG	120
+nsp13|YP_009725308.1      -------------------------AVGACVLCNSQ-TSLRCGACIRRPFLCCKCCYDHV	34
+pdb|2gk6|A                ------------------------------------------------------------	0
+                                                                                      
+
+sp|P16736|HELI_HCMVA      TAGAGKTSSIQVLAANLDCVITGTTVIAAQNLSAILNRTRSAQVKTIYRVFGFVSKHVPL	180
+nsp13|YP_009725308.1      IS---TSHKLVLSVNPYVCNAPGCDVTDV---------------TQLY--LGGMSY----	70
+pdb|2gk6|A                ------------------------------------------------------------	0
+                                                                                      
+
+sp|P16736|HELI_HCMVA      ADSAVSHETLERYRVCEPHEETTIQRLQINDLLAYWPVIADIVDKCLN------------	228
+nsp13|YP_009725308.1      --YCKSHKPPISFPLCANGQV-----------------FGLYKNTCVGSDNVTDFNAIAT	111
+pdb|2gk6|A                -------------PL--------------------------------GSR----------	5
+                                        :                                .            
+
+sp|P16736|HELI_HCMVA      -MWERKAASASAAAAAAACEDLSELCESNIIVID------------------ECGLMLRY	269
+nsp13|YP_009725308.1      CDWTNAGDY----ILANTCTERLKLFAAETLKATEETFKLSYGIATVREVLSDRELHLSW	167
+pdb|2gk6|A                --YED--AY----QYQNIFGPLVKLE-------------ADYD-KKLKESQTQDNITVRW	43
+                            :                    :*                           :  : : :
+
+sp|P16736|HELI_HCMVA      MLQV---VVFFYYFYNALGDTRLYRERRVPCIICVGSPTQTEALESRYDHYTQNKSVRKG	326
+nsp13|YP_009725308.1      EVGKPRPPLNRNY---------VFTG----------------------------------	184
+pdb|2gk6|A                DLGLNKKRIAYFTLPKTDSDMRLMQG----------------------------------	69
+                           :      :             :                                     
+
+sp|P16736|HELI_HCMVA      VDVLSALIQNEVLINY-CDIADNWVMFIHNKRCTDLDFGDLLKYM---EFGIPLKEEHVA	382
+nsp13|YP_009725308.1      ---------YRVTKN-------SKVQIGEYT-FEKGDYGDAVVYR---------------	212
+pdb|2gk6|A                ---------DEICLRYKGDLAPLWKGIGHVI-KVPDNYGDEIAIELRSSVGAPVEVTHNF	119
+                                    .:  .           : .       ::** :                  
+
+sp|P16736|HELI_HCMVA      YVDRFVRPPSSIRNPSYAAEMTRLFLSHVEVQA--YFKRLHEQIRLSERHRLFDLPV---	437
+nsp13|YP_009725308.1      --------GTTT-----------YKL---NVGD--YFVLT--------SHTVMPLSAPTL	240
+pdb|2gk6|A                QVD-FVWKSTSFDRMQ--SALKTFAVDETSVSGYIYHKLL--------GHEVEDVIIKCQ	168
+                                   ::              :   .*    *.            * :  :     
+
+sp|P16736|HELI_HCMVA      ------------------------------------------------------------	437
+nsp13|YP_009725308.1      VPQEHYVRITGLYPTLNISDEFSSNVANYQKVGMQKYSTLQGPPGTGKSHFAIGLALYYP	300
+pdb|2gk6|A                LP--------KRFTAQGLPDLNHSQVYAVKTVLQRPLSLIQGPPGTGKTVTSATIVYHLA	220
+                                                                                      
+
+sp|P16736|HELI_HCMVA      --------YCVVNNRAYQELCELADPLGDSPQPVELWFRQN----------LARIINYSQ	479
+nsp13|YP_009725308.1      S---ARIVYTACSHAAVDALCEKALKY--LPIDKCSRI----------IPARARVECFDK	345
+pdb|2gk6|A                RQGNGPVLVCAPSNIAVDQLTEKIHQTGLKVVRLCAKSREAIDSPVSFLALHNQIRNMDS	280
+                                    . .: * : * *                               ::   ..
+
+sp|P16736|HELI_HCMVA      FVDHNLSSEITKEALRPAADVVATNNSSVQAHGGGGSVIGSTGGNDETAFFQDDDTTTAP	539
+nsp13|YP_009725308.1      FKVNSTLEQY----------VFC----TVNALPET---TADIVVFDEI------------	376
+pdb|2gk6|A                MPELQK----------------------LQQLKDE---TGELSSADEKRYR---------	306
+                          :   .                       ::         ..    **             
+
+sp|P16736|HELI_HCMVA      DSRETLLTLRITYIKGSSVGVNSKVRACVIGYQGTVERF----VDIL-------------	582
+nsp13|YP_009725308.1      -------SMAT---NYDLSVVNARLRAKHYVYIGDPAQLPAP-RT-LLTK--GTLEPEYF	422
+pdb|2gk6|A                -----ALKRTA---EREL-LMNADVICCTCVGAGDPRLAKMQFRSILIDESTQATEPECM	357
+                                 .      : .   :*: : .      *            *             
+
+sp|P16736|HELI_HCMVA      -------------QKDTFIE-RTPCEQAAYAYSLVSGLLFSAMYYFYVSPYTTEEMLREL	628
+nsp13|YP_009725308.1      NSVC---RLMKTIGPDMFLGTCRRCPAEI--VDTVSA-------------LVYDNKLK--	462
+pdb|2gk6|A                VPVVLGAKQLILVGDHCQLGPVVMCKKAA--KAGLSQSLFERLVVLGIRPIRLQVQYR--	413
+                                         .  :     *         :*                 :   :  
+
+sp|P16736|HELI_HCMVA      ARVELPDVSSLCAAA---------------AATAAAPAWSGGENPINNHVDADSSQGGQS	673
+nsp13|YP_009725308.1      ---AHKDKSAQCFKMFYKGVITHDVSSAI-------------------------------	488
+pdb|2gk6|A                ---MHPALSAFPSNIFYEGSLQNGVTAADRVKKGFDFQWPQPDKPMFFYV----------	460
+                                  *:                                                  
+
+sp|P16736|HELI_HCMVA      VPVSQRMEHGQEETHDIPCLSNHHDDSDAITDAELMDHTSLYADPFFLKYVKPPSLALLS	733
+nsp13|YP_009725308.1      -------------------------NRPQIGVVR----------EFLTRNPAWRKAVFI-	512
+pdb|2gk6|A                -------TQGQEEIASSGTSY---LNRTEAANVEKIT------TKLLKAGAKPDQIGII-	503
+                                                   :      ..           ::       .  :: 
+
+sp|P16736|HELI_HCMVA      FEETVHMYTTFRDIFLKRYQLMQRLTGGRFATLPLVTYNRRNVVFKANCQISSQTGSFVG	793
+nsp13|YP_009725308.1      -----------------------------------SPYNSQNAVAS-------KI-----	525
+pdb|2gk6|A                -----------------------------------TPYEGQRSYLV-------QYMQFSG	521
+                                                               *: :.           :      
+
+sp|P16736|HELI_HCMVA      MLSHVSPAQTYTLEGYTSDNVLSLPSDRHRIHPEVVQRGLSRLVLRDALGFLFVLDVNVS	853
+nsp13|YP_009725308.1      ------------------------------------------------------LGLPT-	530
+pdb|2gk6|A                SLH-----------------------------------------------TKLYQEVEI-	533
+                                                                                  :   
+
+sp|P16736|HELI_HCMVA      RFVESAQGKSLHVCTTVDYGLTSRTAMTIAKSQGLSLEKVAVDFGDHPKNLKMS--HIYV	911
+nsp13|YP_009725308.1      QTVDSSQGSEY------DYVIFTQ--TTETAH------------SCNVNRFNVAITRAKV	570
+pdb|2gk6|A                ASVDAFQGREK------DFIILSC--VRANEHQG-------IGFLNDPRRLNVALTRARY	578
+                            *:: ** .       *: : :                       . ..::::  :   
+
+sp|P16736|HELI_HCMVA      AMSRVTDPEHLMMN--VNPLRLPYEKNTAITPYICRALKDKRTTLI-F-	956
+nsp13|YP_009725308.1      GILCIMSDRDLYDKLQFTSLE--------------IPRRNVATL--Q--	601
+pdb|2gk6|A                GVIIVGNPKALSKQPLWNHLLNYYKEQKVLV---EGPLNNLRESLMQFS	624
+                          .:  : . . *  :   . *                  .:         
