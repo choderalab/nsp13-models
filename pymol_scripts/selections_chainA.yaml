@@ -1,0 +1,45 @@
+
+# can I put text here?
+---
+Upf1: 
+    structures:
+        - 2gk6
+        - 2xzo
+    selections:
+        chainA: 'chain A'
+        CLoop: 'resi 492-497 and chain A'
+
+HCV:
+    structures:
+        - 3o8d
+        - 3o8r
+    selections:
+        chainA: 'chain A'
+        CLoop: 'resi 203-209 and chain A'
+
+SARS_nsp13:
+    structures:
+        - 6jyt_refine_12
+        - 6jyt
+    selections:
+        chainA: 'chain A'    
+        CLoop: 'resi 282-287 and chain A'
+        ZBD: 'resi 1-99 and chain A'
+        stalk: 'resi 100-149 and chain A'
+        1A: 'resi 261-441 and chain A'
+        1B: 'resi 150-260 and chain A'
+        2A: 'resi 442-596 and chain A'
+MERS_nsp13:
+    structures:
+        - 5wwp
+    selections:
+        chainA: 'chain A'    
+        CLoop: 'resi 282-287 and chain A'
+        ZBD: 'resi 1-99 and chain A'
+        stalk: 'resi 100-149 and chain A'
+        1A: 'resi 261-441 and chain A'
+        1B: 'resi 150-260 and chain A'
+        2A: 'resi 442-596 and chain A'
+        
+    
+      

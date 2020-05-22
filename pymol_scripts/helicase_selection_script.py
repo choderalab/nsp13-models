@@ -5,7 +5,7 @@
 import yaml, argparse
 from pymol import cmd, stored
 
-with open(r'selections_chainA.yml') as file:
+with open(r'selections_chainA.yaml') as file:
     proteins = yaml.full_load(file)
 
 def domain_selection(protein, pdbid, selections = False):
@@ -22,4 +22,4 @@ def domain_autoselect():
                 domain_selection(protein, structure, info['selections'])
 
 cmd.extend('domain_selection', domain_selection)
-cmd.extend('das', domain_autoselect)
+cmd.extend('domain_autoselect', domain_autoselect)
