@@ -29,6 +29,7 @@ SARS_nsp13:
         1A: 'resi 261-441 and chain A'
         1B: 'resi 150-260 and chain A'
         2A: 'resi 442-596 and chain A'
+        
 MERS_nsp13:
     structures:
         - 5wwp

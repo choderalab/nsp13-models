@@ -4,7 +4,7 @@
 from pymol import cmd, stored
 
 cmd.run('helicase_selection_script.py')
-pymol.das()
+pymol.domain_selecttype(sel_keys = ['chainA'])
 
 chainA_list = [sel for sel in cmd.get_names('selections') if 'chainA' in sel]
 chainA_list.remove('SARS_nsp13_6jyt_chainA')
