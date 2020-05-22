@@ -6,10 +6,16 @@ from pymol import cmd, stored
 
 with open(r'selections.yml') as file:
     proteins = yaml.full_load(file)
-    print(proteins['selections']) 
 
-def domain_selection(protein, pdbid):
-    for name, resi in proteins['selections'].items():
-        cmd.select(f'{protein}_{name}', f'resi {resi}')
+def domain_selection(protein, pdbid, selections):
+    for name, resi in selections.items():
+        cmd.select(f'{protein}_{pdbid}_{name}', f'{pdbid} and resi {resi}')
+        
+
+def domain_autoselect():
+    for protein, info in proteins.items():
+        for structure in info['structures']:
+            domain_selection(protein, structure, info['selections'])
 
 cmd.extend('domain_selection', domain_selection)
+cmd.extend('das', domain_autoselect)
