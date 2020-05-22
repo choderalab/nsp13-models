@@ -1,9 +1,17 @@
 Upf1: 
     structures:
-      - 2gk6
-      - 2xzo
+     - 2gk6
+     - 2xzo
     selections:
-      chainA: 1-602
-
-
+     chainA: 'chain A'
+      
+SARS_nsp13:
+    structures:
+     - 6jyt_refine_12
+     - 6jyt
+    selections:
+     chainA: 'chain A'    
+     ZBD: 'resi 1-99 and chain A'
+     stalk_domain: 'resi 100-149 and chain A'
+      
       

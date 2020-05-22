@@ -1,0 +1,19 @@
+Upf1: 
+    structures:
+     - 2gk6
+     - 2xzo
+    selections:
+     chainA: 'chain A'
+      
+SARS_nsp13:
+    structures:
+     - 6jyt_refine_12
+     - 6jyt
+    selections:
+     chainA: 'chain A'    
+     ZBD: 'resi 1-99 and chain A'
+     stalk: 'resi 100-149 and chain A'
+     1A: 'resi 261-441 and chain A'
+     1B: 'resi 150-260 and chain A'
+     2A: 'resi 442-596 and chain A'
+      
